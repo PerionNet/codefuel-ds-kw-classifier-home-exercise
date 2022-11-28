@@ -1,0 +1,219 @@
+,source_category,target_indices
+0,/Arts & Entertainment/Celebrities & Entertainment News,[]
+1,/Arts & Entertainment/Comics & Animation,"[0, 1, 2]"
+2,/Arts & Entertainment/Entertainment Industry,"[3, 4]"
+3,/Arts & Entertainment/Events & Listings,"[5, 6, 7, 8, 9]"
+4,/Arts & Entertainment/Fun & Trivia,"[10, 11]"
+5,/Arts & Entertainment/Humor,"[12, 13]"
+6,/Arts & Entertainment/Movies,[]
+7,/Arts & Entertainment/Music & Audio,"[14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31]"
+8,/Arts & Entertainment/Offbeat,[32]
+9,/Arts & Entertainment/Online Media,[33]
+10,/Arts & Entertainment/Performing Arts,"[34, 35, 36, 37, 38]"
+11,/Arts & Entertainment/TV & Video,"[39, 40, 41]"
+12,/Arts & Entertainment/Visual Art & Design,"[42, 43, 44, 45, 46]"
+13,/Autos & Vehicles/Bicycles & Accessories,"[47, 48]"
+14,/Autos & Vehicles/Boats & Watercraft,[]
+15,/Autos & Vehicles/Campers & RVs,[]
+16,/Autos & Vehicles/Classic Vehicles,[]
+17,/Autos & Vehicles/Commercial Vehicles,[49]
+18,/Autos & Vehicles/Motor Vehicles (By Type),"[50, 51, 52, 53]"
+19,/Autos & Vehicles/Vehicle Codes & Driving Laws,[54]
+20,/Autos & Vehicles/Vehicle Parts & Services,"[55, 56, 57]"
+21,/Autos & Vehicles/Vehicle Shopping,[58]
+22,/Autos & Vehicles/Vehicle Shows,[]
+23,/Beauty & Fitness/Beauty Pageants,[]
+24,/Beauty & Fitness/Body Art,[]
+25,/Beauty & Fitness/Cosmetic Procedures,[59]
+26,/Beauty & Fitness/Cosmetology & Beauty Professionals,[]
+27,/Beauty & Fitness/Face & Body Care,"[60, 61, 62, 63, 64]"
+28,/Beauty & Fitness/Fashion & Style,[65]
+29,/Beauty & Fitness/Fitness,[]
+30,/Beauty & Fitness/Hair Care,[66]
+31,/Beauty & Fitness/Spas & Beauty Services,[67]
+32,/Beauty & Fitness/Weight Loss,[]
+33,/Books & Literature/Children's Literature,[]
+34,/Books & Literature/E-Books,[]
+35,/Books & Literature/Fan Fiction,[]
+36,/Books & Literature/Literary Classics,[]
+37,/Books & Literature/Poetry,[]
+38,/Books & Literature/Writers Resources,[]
+39,/Business & Industrial/Advertising & Marketing,[68]
+40,/Business & Industrial/Aerospace & Defense,[69]
+41,/Business & Industrial/Agriculture & Forestry,"[70, 71, 72]"
+42,/Business & Industrial/Automotive Industry,[]
+43,/Business & Industrial/Business Education,[]
+44,/Business & Industrial/Business Finance,[73]
+45,/Business & Industrial/Business Operations,"[74, 75]"
+46,/Business & Industrial/Business Services,"[76, 77, 78, 79, 80, 81, 82]"
+47,/Business & Industrial/Chemicals Industry,"[83, 84]"
+48,/Business & Industrial/Construction & Maintenance,[85]
+49,/Business & Industrial/Energy & Utilities,"[86, 87, 88]"
+50,/Business & Industrial/Hospitality Industry,"[89, 90]"
+51,/Business & Industrial/Industrial Materials & Equipment,[91]
+52,/Business & Industrial/Manufacturing,[]
+53,/Business & Industrial/Metals & Mining,[92]
+54,/Business & Industrial/Pharmaceuticals & Biotech,[]
+55,/Business & Industrial/Printing & Publishing,[]
+56,/Business & Industrial/Retail Trade,[93]
+57,/Business & Industrial/Small Business,[94]
+58,/Business & Industrial/Textiles & Nonwovens,[]
+59,/Business & Industrial/Transportation & Logistics,"[95, 96, 97, 98, 99, 100, 101, 102]"
+60,/Computers & Electronics/CAD & CAM,[]
+61,/Computers & Electronics/Computer Hardware,"[103, 104, 105, 106, 107]"
+62,/Computers & Electronics/Computer Security,[108]
+63,/Computers & Electronics/Consumer Electronics,"[109, 110, 111, 112, 113, 114, 115]"
+64,/Computers & Electronics/Electronics & Electrical,"[116, 117]"
+65,/Computers & Electronics/Enterprise Technology,[118]
+66,/Computers & Electronics/Networking,"[119, 120, 121]"
+67,/Computers & Electronics/Programming,[122]
+68,/Computers & Electronics/Software,"[123, 124, 125, 126, 127, 128]"
+69,/Finance/Accounting & Auditing,"[129, 130]"
+70,/Finance/Banking,[]
+71,/Finance/Credit & Lending,"[131, 132, 133]"
+72,/Finance/Financial Planning & Management,[134]
+73,"/Finance/Grants, Scholarships & Financial Aid",[135]
+74,/Finance/Insurance,"[136, 137, 138]"
+75,/Finance/Investing,"[139, 140, 141]"
+76,/Food & Drink/Beverages,"[142, 143, 144, 145]"
+77,/Food & Drink/Cooking & Recipes,"[146, 147, 148]"
+78,/Food & Drink/Food,"[149, 150, 151, 152, 153, 154]"
+79,/Food & Drink/Food & Grocery Retailers,[]
+80,/Food & Drink/Restaurants,"[155, 156, 157]"
+81,/Games/Arcade & Coin-Op Games,[]
+82,/Games/Board Games,"[158, 159]"
+83,/Games/Card Games,"[160, 161]"
+84,/Games/Computer & Video Games,"[162, 163, 164, 165, 166, 167, 168, 169, 170, 171]"
+85,/Games/Family-Oriented Games & Activities,"[172, 173]"
+86,/Games/Gambling,[174]
+87,/Games/Online Games,[175]
+88,/Games/Puzzles & Brainteasers,[]
+89,/Games/Roleplaying Games,[]
+90,/Games/Table Games,[176]
+91,/Games/Word Games,[]
+92,/Health/Aging & Geriatrics,[]
+93,/Health/Health Conditions,"[177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193]"
+94,/Health/Health Education & Medical Training,[]
+95,/Health/Health Foundations & Medical Research,[]
+96,/Health/Medical Devices & Equipment,[]
+97,/Health/Medical Facilities & Services,"[194, 195, 196, 197]"
+98,/Health/Men's Health,[]
+99,/Health/Mental Health,"[198, 199]"
+100,/Health/Nursing,[200]
+101,/Health/Nutrition,"[201, 202]"
+102,/Health/Oral & Dental Care,[]
+103,/Health/Pharmacy,[203]
+104,/Health/Public Health,[204]
+105,/Health/Reproductive Health,[]
+106,/Health/Substance Abuse,"[205, 206, 207, 208]"
+107,/Health/Vision Care,[209]
+108,/Health/Women's Health,[]
+109,/Hobbies & Leisure/Clubs & Organizations,[210]
+110,/Hobbies & Leisure/Crafts,[211]
+111,/Hobbies & Leisure/Merit Prizes & Contests,[]
+112,/Hobbies & Leisure/Outdoors,"[212, 213]"
+113,/Hobbies & Leisure/Paintball,[]
+114,/Hobbies & Leisure/Radio Control & Modeling,[214]
+115,/Hobbies & Leisure/Special Occasions,"[215, 216]"
+116,/Hobbies & Leisure/Water Activities,"[217, 218]"
+117,/Home & Garden/Bed & Bath,[219]
+118,/Home & Garden/Domestic Services,[220]
+119,/Home & Garden/Gardening & Landscaping,[]
+120,/Home & Garden/HVAC & Climate Control,[221]
+121,/Home & Garden/Home & Interior Decor,[]
+122,/Home & Garden/Home Appliances,[]
+123,/Home & Garden/Home Furnishings,"[222, 223, 224, 225, 226]"
+124,/Home & Garden/Home Improvement,"[227, 228, 229, 230, 231]"
+125,/Home & Garden/Home Safety & Security,[]
+126,/Home & Garden/Home Storage & Shelving,[]
+127,"/Home & Garden/Home Swimming Pools, Saunas & Spas",[]
+128,/Home & Garden/Kitchen & Dining,"[232, 233, 234]"
+129,/Home & Garden/Laundry,[235]
+130,/Home & Garden/Nursery & Playroom,[]
+131,/Home & Garden/Pest Control,[]
+132,/Home & Garden/Yard & Patio,[236]
+133,/Internet & Telecom/Communications Equipment,[237]
+134,/Internet & Telecom/Email & Messaging,"[238, 239]"
+135,/Internet & Telecom/Mobile & Wireless,"[240, 241, 242]"
+136,/Internet & Telecom/Service Providers,[243]
+137,/Internet & Telecom/Web Services,"[244, 245]"
+138,/Jobs & Education/Education,"[246, 247, 248, 249, 250, 251, 252, 253]"
+139,/Jobs & Education/Jobs,"[254, 255, 256]"
+140,/Law & Government/Government,"[257, 258]"
+141,/Law & Government/Legal,"[259, 260, 261]"
+142,/Law & Government/Military,[]
+143,/Law & Government/Public Safety,"[262, 263, 264, 265]"
+144,/Law & Government/Social Services,[]
+145,/News/Business News,"[266, 267]"
+146,/News/Gossip & Tabloid News,[268]
+147,/News/Health News,[]
+148,/News/Politics,[]
+149,/News/Sports News,[]
+150,/News/Weather,[]
+151,/Online Communities/Blogging Resources & Services,[]
+152,/Online Communities/Dating & Personals,"[269, 270, 271]"
+153,/Online Communities/File Sharing & Hosting,[]
+154,/Online Communities/Online Goodies,"[272, 273, 274]"
+155,/Online Communities/Photo & Video Sharing,[275]
+156,/Online Communities/Social Networks,[]
+157,/Online Communities/Virtual Worlds,[]
+158,/People & Society/Family & Relationships,"[276, 277, 278]"
+159,/People & Society/Kids & Teens,"[279, 280]"
+160,/People & Society/Religion & Belief,[]
+161,/People & Society/Seniors & Retirement,[]
+162,/People & Society/Social Issues & Advocacy,"[281, 282, 283, 284, 285, 286]"
+163,/People & Society/Social Sciences,"[287, 288, 289]"
+164,/People & Society/Subcultures & Niche Interests,[]
+165,/Pets & Animals/Animal Products & Services,"[290, 291]"
+166,/Pets & Animals/Pets,"[292, 293, 294, 295, 296, 297, 298, 299]"
+167,/Pets & Animals/Wildlife,[]
+168,/Real Estate/Real Estate Listings,"[300, 301, 302, 303, 304, 305]"
+169,/Real Estate/Real Estate Services,[]
+170,/Reference/Directories & Listings,[306]
+171,/Reference/General Reference,"[307, 308, 309, 310, 311, 312]"
+172,/Reference/Geographic Reference,[313]
+173,/Reference/Humanities,"[314, 315, 316]"
+174,/Reference/Language Resources,[317]
+175,/Reference/Libraries & Museums,[318]
+176,/Science/Astronomy,[]
+177,/Science/Biological Sciences,[319]
+178,/Science/Chemistry,[]
+179,/Science/Computer Science,[]
+180,/Science/Earth Sciences,"[320, 321]"
+181,/Science/Ecology & Environment,[322]
+182,/Science/Engineering & Technology,[323]
+183,/Science/Mathematics,[324]
+184,/Science/Physics,[]
+185,/Science/Scientific Institutions,[]
+186,/Shopping/Antiques & Collectibles,[]
+187,/Shopping/Apparel,"[325, 326, 327, 328, 329, 330, 331, 332, 333, 334, 335, 336, 337]"
+188,/Shopping/Auctions,[]
+189,/Shopping/Classifieds,[]
+190,/Shopping/Consumer Resources,"[338, 339, 340]"
+191,/Shopping/Entertainment Media,[341]
+192,/Shopping/Gifts & Special Event Items,"[342, 343, 344]"
+193,/Shopping/Luxury Goods,[]
+194,/Shopping/Mass Merchants & Department Stores,[]
+195,/Shopping/Photo & Video Services,[]
+196,/Shopping/Tobacco Products,[]
+197,/Shopping/Toys,"[345, 346, 347, 348, 349]"
+198,/Sports/Animal Sports,[]
+199,/Sports/College Sports,[]
+200,/Sports/Combat Sports,"[350, 351, 352]"
+201,/Sports/Extreme Sports,[353]
+202,/Sports/Fantasy Sports,[]
+203,/Sports/Individual Sports,"[354, 355, 356, 357, 358, 359]"
+204,/Sports/International Sports Competitions,[360]
+205,/Sports/Motor Sports,[]
+206,/Sports/Sporting Goods,"[361, 362]"
+207,/Sports/Sports Coaching & Training,[]
+208,/Sports/Team Sports,"[363, 364, 365, 366, 367, 368, 369, 370, 371, 372]"
+209,/Sports/Water Sports,"[373, 374]"
+210,/Sports/Winter Sports,"[375, 376]"
+211,/Travel/Air Travel,[377]
+212,/Travel/Bus & Rail,[]
+213,/Travel/Car Rental & Taxi Services,[]
+214,/Travel/Cruises & Charters,[]
+215,/Travel/Hotels & Accommodations,[378]
+216,/Travel/Specialty Travel,[]
+217,/Travel/Tourist Destinations,"[379, 380, 381, 382, 383]"

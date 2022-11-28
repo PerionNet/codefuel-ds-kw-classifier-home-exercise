@@ -1,0 +1,219 @@
+,category
+0,/Arts & Entertainment/Celebrities & Entertainment News
+1,/Arts & Entertainment/Comics & Animation
+2,/Arts & Entertainment/Entertainment Industry
+3,/Arts & Entertainment/Events & Listings
+4,/Arts & Entertainment/Fun & Trivia
+5,/Arts & Entertainment/Humor
+6,/Arts & Entertainment/Movies
+7,/Arts & Entertainment/Music & Audio
+8,/Arts & Entertainment/Offbeat
+9,/Arts & Entertainment/Online Media
+10,/Arts & Entertainment/Performing Arts
+11,/Arts & Entertainment/TV & Video
+12,/Arts & Entertainment/Visual Art & Design
+13,/Autos & Vehicles/Bicycles & Accessories
+14,/Autos & Vehicles/Boats & Watercraft
+15,/Autos & Vehicles/Campers & RVs
+16,/Autos & Vehicles/Classic Vehicles
+17,/Autos & Vehicles/Commercial Vehicles
+18,/Autos & Vehicles/Motor Vehicles (By Type)
+19,/Autos & Vehicles/Vehicle Codes & Driving Laws
+20,/Autos & Vehicles/Vehicle Parts & Services
+21,/Autos & Vehicles/Vehicle Shopping
+22,/Autos & Vehicles/Vehicle Shows
+23,/Beauty & Fitness/Beauty Pageants
+24,/Beauty & Fitness/Body Art
+25,/Beauty & Fitness/Cosmetic Procedures
+26,/Beauty & Fitness/Cosmetology & Beauty Professionals
+27,/Beauty & Fitness/Face & Body Care
+28,/Beauty & Fitness/Fashion & Style
+29,/Beauty & Fitness/Fitness
+30,/Beauty & Fitness/Hair Care
+31,/Beauty & Fitness/Spas & Beauty Services
+32,/Beauty & Fitness/Weight Loss
+33,/Books & Literature/Children's Literature
+34,/Books & Literature/E-Books
+35,/Books & Literature/Fan Fiction
+36,/Books & Literature/Literary Classics
+37,/Books & Literature/Poetry
+38,/Books & Literature/Writers Resources
+39,/Business & Industrial/Advertising & Marketing
+40,/Business & Industrial/Aerospace & Defense
+41,/Business & Industrial/Agriculture & Forestry
+42,/Business & Industrial/Automotive Industry
+43,/Business & Industrial/Business Education
+44,/Business & Industrial/Business Finance
+45,/Business & Industrial/Business Operations
+46,/Business & Industrial/Business Services
+47,/Business & Industrial/Chemicals Industry
+48,/Business & Industrial/Construction & Maintenance
+49,/Business & Industrial/Energy & Utilities
+50,/Business & Industrial/Hospitality Industry
+51,/Business & Industrial/Industrial Materials & Equipment
+52,/Business & Industrial/Manufacturing
+53,/Business & Industrial/Metals & Mining
+54,/Business & Industrial/Pharmaceuticals & Biotech
+55,/Business & Industrial/Printing & Publishing
+56,/Business & Industrial/Retail Trade
+57,/Business & Industrial/Small Business
+58,/Business & Industrial/Textiles & Nonwovens
+59,/Business & Industrial/Transportation & Logistics
+60,/Computers & Electronics/CAD & CAM
+61,/Computers & Electronics/Computer Hardware
+62,/Computers & Electronics/Computer Security
+63,/Computers & Electronics/Consumer Electronics
+64,/Computers & Electronics/Electronics & Electrical
+65,/Computers & Electronics/Enterprise Technology
+66,/Computers & Electronics/Networking
+67,/Computers & Electronics/Programming
+68,/Computers & Electronics/Software
+69,/Finance/Accounting & Auditing
+70,/Finance/Banking
+71,/Finance/Credit & Lending
+72,/Finance/Financial Planning & Management
+73,"/Finance/Grants, Scholarships & Financial Aid"
+74,/Finance/Insurance
+75,/Finance/Investing
+76,/Food & Drink/Beverages
+77,/Food & Drink/Cooking & Recipes
+78,/Food & Drink/Food
+79,/Food & Drink/Food & Grocery Retailers
+80,/Food & Drink/Restaurants
+81,/Games/Arcade & Coin-Op Games
+82,/Games/Board Games
+83,/Games/Card Games
+84,/Games/Computer & Video Games
+85,/Games/Family-Oriented Games & Activities
+86,/Games/Gambling
+87,/Games/Online Games
+88,/Games/Puzzles & Brainteasers
+89,/Games/Roleplaying Games
+90,/Games/Table Games
+91,/Games/Word Games
+92,/Health/Aging & Geriatrics
+93,/Health/Health Conditions
+94,/Health/Health Education & Medical Training
+95,/Health/Health Foundations & Medical Research
+96,/Health/Medical Devices & Equipment
+97,/Health/Medical Facilities & Services
+98,/Health/Men's Health
+99,/Health/Mental Health
+100,/Health/Nursing
+101,/Health/Nutrition
+102,/Health/Oral & Dental Care
+103,/Health/Pharmacy
+104,/Health/Public Health
+105,/Health/Reproductive Health
+106,/Health/Substance Abuse
+107,/Health/Vision Care
+108,/Health/Women's Health
+109,/Hobbies & Leisure/Clubs & Organizations
+110,/Hobbies & Leisure/Crafts
+111,/Hobbies & Leisure/Merit Prizes & Contests
+112,/Hobbies & Leisure/Outdoors
+113,/Hobbies & Leisure/Paintball
+114,/Hobbies & Leisure/Radio Control & Modeling
+115,/Hobbies & Leisure/Special Occasions
+116,/Hobbies & Leisure/Water Activities
+117,/Home & Garden/Bed & Bath
+118,/Home & Garden/Domestic Services
+119,/Home & Garden/Gardening & Landscaping
+120,/Home & Garden/HVAC & Climate Control
+121,/Home & Garden/Home & Interior Decor
+122,/Home & Garden/Home Appliances
+123,/Home & Garden/Home Furnishings
+124,/Home & Garden/Home Improvement
+125,/Home & Garden/Home Safety & Security
+126,/Home & Garden/Home Storage & Shelving
+127,"/Home & Garden/Home Swimming Pools, Saunas & Spas"
+128,/Home & Garden/Kitchen & Dining
+129,/Home & Garden/Laundry
+130,/Home & Garden/Nursery & Playroom
+131,/Home & Garden/Pest Control
+132,/Home & Garden/Yard & Patio
+133,/Internet & Telecom/Communications Equipment
+134,/Internet & Telecom/Email & Messaging
+135,/Internet & Telecom/Mobile & Wireless
+136,/Internet & Telecom/Service Providers
+137,/Internet & Telecom/Web Services
+138,/Jobs & Education/Education
+139,/Jobs & Education/Jobs
+140,/Law & Government/Government
+141,/Law & Government/Legal
+142,/Law & Government/Military
+143,/Law & Government/Public Safety
+144,/Law & Government/Social Services
+145,/News/Business News
+146,/News/Gossip & Tabloid News
+147,/News/Health News
+148,/News/Politics
+149,/News/Sports News
+150,/News/Weather
+151,/Online Communities/Blogging Resources & Services
+152,/Online Communities/Dating & Personals
+153,/Online Communities/File Sharing & Hosting
+154,/Online Communities/Online Goodies
+155,/Online Communities/Photo & Video Sharing
+156,/Online Communities/Social Networks
+157,/Online Communities/Virtual Worlds
+158,/People & Society/Family & Relationships
+159,/People & Society/Kids & Teens
+160,/People & Society/Religion & Belief
+161,/People & Society/Seniors & Retirement
+162,/People & Society/Social Issues & Advocacy
+163,/People & Society/Social Sciences
+164,/People & Society/Subcultures & Niche Interests
+165,/Pets & Animals/Animal Products & Services
+166,/Pets & Animals/Pets
+167,/Pets & Animals/Wildlife
+168,/Real Estate/Real Estate Listings
+169,/Real Estate/Real Estate Services
+170,/Reference/Directories & Listings
+171,/Reference/General Reference
+172,/Reference/Geographic Reference
+173,/Reference/Humanities
+174,/Reference/Language Resources
+175,/Reference/Libraries & Museums
+176,/Science/Astronomy
+177,/Science/Biological Sciences
+178,/Science/Chemistry
+179,/Science/Computer Science
+180,/Science/Earth Sciences
+181,/Science/Ecology & Environment
+182,/Science/Engineering & Technology
+183,/Science/Mathematics
+184,/Science/Physics
+185,/Science/Scientific Institutions
+186,/Shopping/Antiques & Collectibles
+187,/Shopping/Apparel
+188,/Shopping/Auctions
+189,/Shopping/Classifieds
+190,/Shopping/Consumer Resources
+191,/Shopping/Entertainment Media
+192,/Shopping/Gifts & Special Event Items
+193,/Shopping/Luxury Goods
+194,/Shopping/Mass Merchants & Department Stores
+195,/Shopping/Photo & Video Services
+196,/Shopping/Tobacco Products
+197,/Shopping/Toys
+198,/Sports/Animal Sports
+199,/Sports/College Sports
+200,/Sports/Combat Sports
+201,/Sports/Extreme Sports
+202,/Sports/Fantasy Sports
+203,/Sports/Individual Sports
+204,/Sports/International Sports Competitions
+205,/Sports/Motor Sports
+206,/Sports/Sporting Goods
+207,/Sports/Sports Coaching & Training
+208,/Sports/Team Sports
+209,/Sports/Water Sports
+210,/Sports/Winter Sports
+211,/Travel/Air Travel
+212,/Travel/Bus & Rail
+213,/Travel/Car Rental & Taxi Services
+214,/Travel/Cruises & Charters
+215,/Travel/Hotels & Accommodations
+216,/Travel/Specialty Travel
+217,/Travel/Tourist Destinations

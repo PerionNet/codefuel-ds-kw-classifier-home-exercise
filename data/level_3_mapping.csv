@@ -1,0 +1,385 @@
+,category
+0,/Arts & Entertainment/Comics & Animation/Anime & Manga
+1,/Arts & Entertainment/Comics & Animation/Cartoons
+2,/Arts & Entertainment/Comics & Animation/Comics
+3,/Arts & Entertainment/Entertainment Industry/Film & TV Industry
+4,/Arts & Entertainment/Entertainment Industry/Recording Industry
+5,"/Arts & Entertainment/Events & Listings/Bars, Clubs & Nightlife"
+6,/Arts & Entertainment/Events & Listings/Concerts & Music Festivals
+7,/Arts & Entertainment/Events & Listings/Expos & Conventions
+8,/Arts & Entertainment/Events & Listings/Film Festivals
+9,/Arts & Entertainment/Events & Listings/Movie Listings & Theater Showtimes
+10,/Arts & Entertainment/Fun & Trivia/Flash-Based Entertainment
+11,/Arts & Entertainment/Fun & Trivia/Fun Tests & Silly Surveys
+12,/Arts & Entertainment/Humor/Funny Pictures & Videos
+13,/Arts & Entertainment/Humor/Political Humor
+14,/Arts & Entertainment/Music & Audio/CD & Audio Shopping
+15,/Arts & Entertainment/Music & Audio/Classical Music
+16,/Arts & Entertainment/Music & Audio/Country Music
+17,/Arts & Entertainment/Music & Audio/Dance & Electronic Music
+18,/Arts & Entertainment/Music & Audio/Experimental & Industrial Music
+19,/Arts & Entertainment/Music & Audio/Jazz & Blues
+20,/Arts & Entertainment/Music & Audio/Music Education & Instruction
+21,/Arts & Entertainment/Music & Audio/Music Equipment & Technology
+22,/Arts & Entertainment/Music & Audio/Music Reference
+23,/Arts & Entertainment/Music & Audio/Music Streams & Downloads
+24,/Arts & Entertainment/Music & Audio/Music Videos
+25,/Arts & Entertainment/Music & Audio/Pop Music
+26,/Arts & Entertainment/Music & Audio/Radio
+27,/Arts & Entertainment/Music & Audio/Religious Music
+28,/Arts & Entertainment/Music & Audio/Rock Music
+29,/Arts & Entertainment/Music & Audio/Soundtracks
+30,/Arts & Entertainment/Music & Audio/Urban & Hip-Hop
+31,/Arts & Entertainment/Music & Audio/World Music
+32,/Arts & Entertainment/Offbeat/Occult & Paranormal
+33,/Arts & Entertainment/Online Media/Online Image Galleries
+34,/Arts & Entertainment/Performing Arts/Acting & Theater
+35,/Arts & Entertainment/Performing Arts/Circus
+36,/Arts & Entertainment/Performing Arts/Dance
+37,/Arts & Entertainment/Performing Arts/Magic
+38,/Arts & Entertainment/Performing Arts/Opera
+39,/Arts & Entertainment/TV & Video/Online Video
+40,/Arts & Entertainment/TV & Video/TV Commercials
+41,/Arts & Entertainment/TV & Video/TV Shows & Programs
+42,/Arts & Entertainment/Visual Art & Design/Architecture
+43,/Arts & Entertainment/Visual Art & Design/Art Museums & Galleries
+44,/Arts & Entertainment/Visual Art & Design/Design
+45,/Arts & Entertainment/Visual Art & Design/Painting
+46,/Arts & Entertainment/Visual Art & Design/Photographic & Digital Arts
+47,/Autos & Vehicles/Bicycles & Accessories/BMX Bikes
+48,/Autos & Vehicles/Bicycles & Accessories/Bike Parts & Repair
+49,/Autos & Vehicles/Commercial Vehicles/Cargo Trucks & Trailers
+50,/Autos & Vehicles/Motor Vehicles (By Type)/Hybrid & Alternative Vehicles
+51,/Autos & Vehicles/Motor Vehicles (By Type)/Motorcycles
+52,/Autos & Vehicles/Motor Vehicles (By Type)/Off-Road Vehicles
+53,/Autos & Vehicles/Motor Vehicles (By Type)/Trucks & SUVs
+54,/Autos & Vehicles/Vehicle Codes & Driving Laws/Vehicle Licensing & Registration
+55,/Autos & Vehicles/Vehicle Parts & Services/Gas Prices & Vehicle Fueling
+56,/Autos & Vehicles/Vehicle Parts & Services/Vehicle Parts & Accessories
+57,/Autos & Vehicles/Vehicle Parts & Services/Vehicle Repair & Maintenance
+58,/Autos & Vehicles/Vehicle Shopping/Used Vehicles
+59,/Beauty & Fitness/Cosmetic Procedures/Cosmetic Surgery
+60,/Beauty & Fitness/Face & Body Care/Hygiene & Toiletries
+61,/Beauty & Fitness/Face & Body Care/Make-Up & Cosmetics
+62,/Beauty & Fitness/Face & Body Care/Perfumes & Fragrances
+63,/Beauty & Fitness/Face & Body Care/Skin & Nail Care
+64,/Beauty & Fitness/Face & Body Care/Unwanted Body & Facial Hair Removal
+65,/Beauty & Fitness/Fashion & Style/Fashion Designers & Collections
+66,/Beauty & Fitness/Hair Care/Hair Loss
+67,/Beauty & Fitness/Spas & Beauty Services/Massage Therapy
+68,/Business & Industrial/Advertising & Marketing/Public Relations
+69,/Business & Industrial/Aerospace & Defense/Space Technology
+70,/Business & Industrial/Agriculture & Forestry/Agricultural Equipment
+71,/Business & Industrial/Agriculture & Forestry/Forestry
+72,/Business & Industrial/Agriculture & Forestry/Livestock
+73,/Business & Industrial/Business Finance/Venture Capital
+74,/Business & Industrial/Business Operations/Business Plans & Presentations
+75,/Business & Industrial/Business Operations/Management
+76,/Business & Industrial/Business Services/Consulting
+77,/Business & Industrial/Business Services/Corporate Events
+78,/Business & Industrial/Business Services/E-Commerce Services
+79,/Business & Industrial/Business Services/Fire & Security Services
+80,/Business & Industrial/Business Services/Office Services
+81,/Business & Industrial/Business Services/Office Supplies
+82,/Business & Industrial/Business Services/Writing & Editing Services
+83,/Business & Industrial/Chemicals Industry/Cleaning Agents
+84,/Business & Industrial/Chemicals Industry/Plastics & Polymers
+85,/Business & Industrial/Construction & Maintenance/Building Materials & Supplies
+86,/Business & Industrial/Energy & Utilities/Electricity
+87,/Business & Industrial/Energy & Utilities/Oil & Gas
+88,/Business & Industrial/Energy & Utilities/Renewable & Alternative Energy
+89,/Business & Industrial/Hospitality Industry/Event Planning
+90,/Business & Industrial/Hospitality Industry/Food Service
+91,/Business & Industrial/Industrial Materials & Equipment/Heavy Machinery
+92,/Business & Industrial/Metals & Mining/Precious Metals
+93,/Business & Industrial/Retail Trade/Retail Equipment & Technology
+94,/Business & Industrial/Small Business/MLM & Business Opportunities
+95,/Business & Industrial/Transportation & Logistics/Freight & Trucking
+96,/Business & Industrial/Transportation & Logistics/Mail & Package Delivery
+97,/Business & Industrial/Transportation & Logistics/Maritime Transport
+98,/Business & Industrial/Transportation & Logistics/Moving & Relocation
+99,/Business & Industrial/Transportation & Logistics/Packaging
+100,/Business & Industrial/Transportation & Logistics/Parking
+101,/Business & Industrial/Transportation & Logistics/Rail Transport
+102,/Business & Industrial/Transportation & Logistics/Urban Transport
+103,/Computers & Electronics/Computer Hardware/Computer Components
+104,/Computers & Electronics/Computer Hardware/Computer Drives & Storage
+105,/Computers & Electronics/Computer Hardware/Computer Peripherals
+106,/Computers & Electronics/Computer Hardware/Desktop Computers
+107,/Computers & Electronics/Computer Hardware/Laptops & Notebooks
+108,/Computers & Electronics/Computer Security/Hacking & Cracking
+109,/Computers & Electronics/Consumer Electronics/Audio Equipment
+110,/Computers & Electronics/Consumer Electronics/Camera & Photo Equipment
+111,/Computers & Electronics/Consumer Electronics/Car Electronics
+112,/Computers & Electronics/Consumer Electronics/Drones & RC Aircraft
+113,/Computers & Electronics/Consumer Electronics/GPS & Navigation
+114,/Computers & Electronics/Consumer Electronics/Game Systems & Consoles
+115,/Computers & Electronics/Consumer Electronics/TV & Video Equipment
+116,/Computers & Electronics/Electronics & Electrical/Electronic Components
+117,/Computers & Electronics/Electronics & Electrical/Power Supplies
+118,/Computers & Electronics/Enterprise Technology/Data Management
+119,/Computers & Electronics/Networking/Data Formats & Protocols
+120,/Computers & Electronics/Networking/Network Monitoring & Management
+121,/Computers & Electronics/Networking/VPN & Remote Access
+122,/Computers & Electronics/Programming/Java (Programming Language)
+123,/Computers & Electronics/Software/Business & Productivity Software
+124,/Computers & Electronics/Software/Device Drivers
+125,/Computers & Electronics/Software/Internet Software
+126,/Computers & Electronics/Software/Multimedia Software
+127,/Computers & Electronics/Software/Operating Systems
+128,/Computers & Electronics/Software/Software Utilities
+129,/Finance/Accounting & Auditing/Billing & Invoicing
+130,/Finance/Accounting & Auditing/Tax Preparation & Planning
+131,/Finance/Credit & Lending/Credit Cards
+132,/Finance/Credit & Lending/Credit Reporting & Monitoring
+133,/Finance/Credit & Lending/Loans
+134,/Finance/Financial Planning & Management/Retirement & Pension
+135,"/Finance/Grants, Scholarships & Financial Aid/Study Grants & Scholarships"
+136,/Finance/Insurance/Car Insurance
+137,/Finance/Insurance/Health Insurance
+138,/Finance/Insurance/Pet Insurance
+139,/Finance/Investing/Commodities & Futures Trading
+140,/Finance/Investing/Currencies & Foreign Exchange
+141,/Finance/Investing/Stocks & Bonds
+142,/Food & Drink/Beverages/Alcoholic Beverages
+143,/Food & Drink/Beverages/Coffee & Tea
+144,/Food & Drink/Beverages/Juice
+145,/Food & Drink/Beverages/Soft Drinks
+146,/Food & Drink/Cooking & Recipes/BBQ & Grilling
+147,/Food & Drink/Cooking & Recipes/Desserts
+148,/Food & Drink/Cooking & Recipes/Soups & Stews
+149,/Food & Drink/Food/Baked Goods
+150,/Food & Drink/Food/Breakfast Foods
+151,/Food & Drink/Food/Candy & Sweets
+152,/Food & Drink/Food/Grains & Pasta
+153,/Food & Drink/Food/Meat & Seafood
+154,/Food & Drink/Food/Snack Foods
+155,/Food & Drink/Restaurants/Fast Food
+156,/Food & Drink/Restaurants/Pizzerias
+157,/Food & Drink/Restaurants/Restaurant Reviews & Reservations
+158,/Games/Board Games/Chess & Abstract Strategy Games
+159,/Games/Board Games/Miniatures & Wargaming
+160,/Games/Card Games/Collectible Card Games
+161,/Games/Card Games/Poker & Casino Games
+162,/Games/Computer & Video Games/Casual Games
+163,/Games/Computer & Video Games/Driving & Racing Games
+164,/Games/Computer & Video Games/Fighting Games
+165,/Games/Computer & Video Games/Music & Dance Games
+166,/Games/Computer & Video Games/Sandbox Games
+167,/Games/Computer & Video Games/Shooter Games
+168,/Games/Computer & Video Games/Simulation Games
+169,/Games/Computer & Video Games/Sports Games
+170,/Games/Computer & Video Games/Strategy Games
+171,/Games/Computer & Video Games/Video Game Emulation
+172,/Games/Family-Oriented Games & Activities/Drawing & Coloring
+173,/Games/Family-Oriented Games & Activities/Dress-Up & Fashion Games
+174,/Games/Gambling/Lottery
+175,/Games/Online Games/Massively Multiplayer Games
+176,/Games/Table Games/Billiards
+177,/Health/Health Conditions/AIDS & HIV
+178,/Health/Health Conditions/Allergies
+179,/Health/Health Conditions/Arthritis
+180,/Health/Health Conditions/Cancer
+181,/Health/Health Conditions/Diabetes
+182,/Health/Health Conditions/Ear Nose & Throat
+183,/Health/Health Conditions/Eating Disorders
+184,/Health/Health Conditions/Endocrine Conditions
+185,/Health/Health Conditions/Genetic Disorders
+186,/Health/Health Conditions/Heart & Hypertension
+187,/Health/Health Conditions/Infectious Diseases
+188,/Health/Health Conditions/Neurological Conditions
+189,/Health/Health Conditions/Obesity
+190,/Health/Health Conditions/Pain Management
+191,/Health/Health Conditions/Respiratory Conditions
+192,/Health/Health Conditions/Skin Conditions
+193,/Health/Health Conditions/Sleep Disorders
+194,/Health/Medical Facilities & Services/Doctors' Offices
+195,/Health/Medical Facilities & Services/Hospitals & Treatment Centers
+196,/Health/Medical Facilities & Services/Medical Procedures
+197,/Health/Medical Facilities & Services/Physical Therapy
+198,/Health/Mental Health/Anxiety & Stress
+199,/Health/Mental Health/Depression
+200,/Health/Nursing/Assisted Living & Long Term Care
+201,/Health/Nutrition/Special & Restricted Diets
+202,/Health/Nutrition/Vitamins & Supplements
+203,/Health/Pharmacy/Drugs & Medications
+204,/Health/Public Health/Occupational Health & Safety
+205,/Health/Substance Abuse/Drug & Alcohol Testing
+206,/Health/Substance Abuse/Drug & Alcohol Treatment
+207,/Health/Substance Abuse/Smoking & Smoking Cessation
+208,/Health/Substance Abuse/Steroids & Performance-Enhancing Drugs
+209,/Health/Vision Care/Eyeglasses & Contacts
+210,/Hobbies & Leisure/Clubs & Organizations/Youth Organizations & Resources
+211,/Hobbies & Leisure/Crafts/Fiber & Textile Arts
+212,/Hobbies & Leisure/Outdoors/Fishing
+213,/Hobbies & Leisure/Outdoors/Hiking & Camping
+214,/Hobbies & Leisure/Radio Control & Modeling/Model Trains & Railroads
+215,/Hobbies & Leisure/Special Occasions/Holidays & Seasonal Events
+216,/Hobbies & Leisure/Special Occasions/Weddings
+217,/Hobbies & Leisure/Water Activities/Boating
+218,/Hobbies & Leisure/Water Activities/Surf & Swim
+219,/Home & Garden/Bed & Bath/Bathroom
+220,/Home & Garden/Domestic Services/Cleaning Services
+221,/Home & Garden/HVAC & Climate Control/Fireplaces & Stoves
+222,/Home & Garden/Home Furnishings/Curtains & Window Treatments
+223,/Home & Garden/Home Furnishings/Kitchen & Dining Furniture
+224,/Home & Garden/Home Furnishings/Lamps & Lighting
+225,/Home & Garden/Home Furnishings/Living Room Furniture
+226,/Home & Garden/Home Furnishings/Rugs & Carpets
+227,/Home & Garden/Home Improvement/Construction & Power Tools
+228,/Home & Garden/Home Improvement/Doors & Windows
+229,/Home & Garden/Home Improvement/Flooring
+230,/Home & Garden/Home Improvement/House Painting & Finishing
+231,/Home & Garden/Home Improvement/Plumbing
+232,/Home & Garden/Kitchen & Dining/Cookware & Diningware
+233,/Home & Garden/Kitchen & Dining/Major Kitchen Appliances
+234,/Home & Garden/Kitchen & Dining/Small Kitchen Appliances
+235,/Home & Garden/Laundry/Washers & Dryers
+236,/Home & Garden/Yard & Patio/Lawn Mowers
+237,/Internet & Telecom/Communications Equipment/Radio Equipment
+238,/Internet & Telecom/Email & Messaging/Text & Instant Messaging
+239,/Internet & Telecom/Email & Messaging/Voice & Video Chat
+240,/Internet & Telecom/Mobile & Wireless/Mobile & Wireless Accessories
+241,/Internet & Telecom/Mobile & Wireless/Mobile Apps & Add-Ons
+242,/Internet & Telecom/Mobile & Wireless/Mobile Phones
+243,/Internet & Telecom/Service Providers/Cable & Satellite Providers
+244,/Internet & Telecom/Web Services/Affiliate Programs
+245,/Internet & Telecom/Web Services/Web Design & Development
+246,/Jobs & Education/Education/Colleges & Universities
+247,/Jobs & Education/Education/Distance Learning
+248,/Jobs & Education/Education/Homeschooling
+249,/Jobs & Education/Education/Primary & Secondary Schooling (K-12)
+250,/Jobs & Education/Education/Standardized & Admissions Tests
+251,/Jobs & Education/Education/Teaching & Classroom Resources
+252,/Jobs & Education/Education/Training & Certification
+253,/Jobs & Education/Education/Vocational & Continuing Education
+254,/Jobs & Education/Jobs/Career Resources & Planning
+255,/Jobs & Education/Jobs/Job Listings
+256,/Jobs & Education/Jobs/Resumes & Portfolios
+257,/Law & Government/Government/Courts & Judiciary
+258,/Law & Government/Government/Visa & Immigration
+259,/Law & Government/Legal/Bankruptcy
+260,/Law & Government/Legal/Legal Education
+261,/Law & Government/Legal/Legal Services
+262,/Law & Government/Public Safety/Crime & Justice
+263,/Law & Government/Public Safety/Emergency Services
+264,/Law & Government/Public Safety/Law Enforcement
+265,/Law & Government/Public Safety/Security Products & Services
+266,/News/Business News/Company News
+267,/News/Business News/Financial Markets News
+268,/News/Gossip & Tabloid News/Scandals & Investigations
+269,/Online Communities/Dating & Personals/Matrimonial Services
+270,/Online Communities/Dating & Personals/Personals
+271,/Online Communities/Dating & Personals/Photo Rating Sites
+272,/Online Communities/Online Goodies/Clip Art & Animated GIFs
+273,"/Online Communities/Online Goodies/Skins, Themes & Wallpapers"
+274,/Online Communities/Online Goodies/Social Network Apps & Add-Ons
+275,/Online Communities/Photo & Video Sharing/Photo & Image Sharing
+276,/People & Society/Family & Relationships/Family
+277,/People & Society/Family & Relationships/Marriage
+278,/People & Society/Family & Relationships/Troubled Relationships
+279,/People & Society/Kids & Teens/Children's Interests
+280,/People & Society/Kids & Teens/Teen Interests
+281,/People & Society/Social Issues & Advocacy/Charity & Philanthropy
+282,/People & Society/Social Issues & Advocacy/Discrimination & Identity Relations
+283,/People & Society/Social Issues & Advocacy/Green Living & Environmental Issues
+284,/People & Society/Social Issues & Advocacy/Human Rights & Liberties
+285,/People & Society/Social Issues & Advocacy/Poverty & Hunger
+286,/People & Society/Social Issues & Advocacy/Work & Labor Issues
+287,/People & Society/Social Sciences/Economics
+288,/People & Society/Social Sciences/Political Science
+289,/People & Society/Social Sciences/Psychology
+290,/Pets & Animals/Animal Products & Services/Pet Food & Supplies
+291,/Pets & Animals/Animal Products & Services/Veterinarians
+292,/Pets & Animals/Pets/Birds
+293,/Pets & Animals/Pets/Cats
+294,/Pets & Animals/Pets/Dogs
+295,/Pets & Animals/Pets/Exotic Pets
+296,/Pets & Animals/Pets/Fish & Aquaria
+297,/Pets & Animals/Pets/Horses
+298,/Pets & Animals/Pets/Rabbits & Rodents
+299,/Pets & Animals/Pets/Reptiles & Amphibians
+300,/Real Estate/Real Estate Listings/Bank-Owned & Foreclosed Properties
+301,/Real Estate/Real Estate Listings/Commercial Properties
+302,/Real Estate/Real Estate Listings/Lots & Land
+303,/Real Estate/Real Estate Listings/Residential Rentals
+304,/Real Estate/Real Estate Listings/Residential Sales
+305,/Real Estate/Real Estate Listings/Timeshares & Vacation Properties
+306,/Reference/Directories & Listings/Business & Personal Listings
+307,/Reference/General Reference/Biographies & Quotations
+308,/Reference/General Reference/Calculators & Reference Tools
+309,/Reference/General Reference/Dictionaries & Encyclopedias
+310,/Reference/General Reference/Forms Guides & Templates
+311,/Reference/General Reference/Public Records
+312,/Reference/General Reference/Time & Calendars
+313,/Reference/Geographic Reference/Maps
+314,/Reference/Humanities/History
+315,/Reference/Humanities/Myth & Folklore
+316,/Reference/Humanities/Philosophy
+317,/Reference/Language Resources/Foreign Language Resources
+318,/Reference/Libraries & Museums/Museums
+319,/Science/Biological Sciences/Neuroscience
+320,/Science/Earth Sciences/Atmospheric Science
+321,/Science/Earth Sciences/Geology
+322,/Science/Ecology & Environment/Climate Change & Global Warming
+323,/Science/Engineering & Technology/Robotics
+324,/Science/Mathematics/Statistics
+325,/Shopping/Apparel/Athletic Apparel
+326,/Shopping/Apparel/Casual Apparel
+327,/Shopping/Apparel/Children's Clothing
+328,/Shopping/Apparel/Clothing Accessories
+329,/Shopping/Apparel/Costumes
+330,/Shopping/Apparel/Eyewear
+331,/Shopping/Apparel/Footwear
+332,/Shopping/Apparel/Formal Wear
+333,/Shopping/Apparel/Headwear
+334,/Shopping/Apparel/Men's Clothing
+335,/Shopping/Apparel/Swimwear
+336,/Shopping/Apparel/Undergarments
+337,/Shopping/Apparel/Women's Clothing
+338,/Shopping/Consumer Resources/Consumer Advocacy & Protection
+339,/Shopping/Consumer Resources/Coupons & Discount Offers
+340,/Shopping/Consumer Resources/Product Reviews & Price Comparisons
+341,/Shopping/Entertainment Media/Entertainment Media Rentals
+342,/Shopping/Gifts & Special Event Items/Cards & Greetings
+343,/Shopping/Gifts & Special Event Items/Flowers
+344,/Shopping/Gifts & Special Event Items/Gifts
+345,/Shopping/Toys/Building Toys
+346,/Shopping/Toys/Die-cast & Toy Vehicles
+347,/Shopping/Toys/Dolls & Accessories
+348,/Shopping/Toys/Ride-On Toys & Wagons
+349,/Shopping/Toys/Stuffed Toys
+350,/Sports/Combat Sports/Boxing
+351,/Sports/Combat Sports/Martial Arts
+352,/Sports/Combat Sports/Wrestling
+353,/Sports/Extreme Sports/Drag & Street Racing
+354,/Sports/Individual Sports/Cycling
+355,/Sports/Individual Sports/Golf
+356,/Sports/Individual Sports/Gymnastics
+357,/Sports/Individual Sports/Racquet Sports
+358,/Sports/Individual Sports/Skate Sports
+359,/Sports/Individual Sports/Track & Field
+360,/Sports/International Sports Competitions/Olympics
+361,/Sports/Sporting Goods/Sports Memorabilia
+362,/Sports/Sporting Goods/Winter Sports Equipment
+363,/Sports/Team Sports/American Football
+364,/Sports/Team Sports/Australian Football
+365,/Sports/Team Sports/Baseball
+366,/Sports/Team Sports/Basketball
+367,/Sports/Team Sports/Cheerleading
+368,/Sports/Team Sports/Cricket
+369,/Sports/Team Sports/Hockey
+370,/Sports/Team Sports/Rugby
+371,/Sports/Team Sports/Soccer
+372,/Sports/Team Sports/Volleyball
+373,/Sports/Water Sports/Surfing
+374,/Sports/Water Sports/Swimming
+375,/Sports/Winter Sports/Ice Skating
+376,/Sports/Winter Sports/Skiing & Snowboarding
+377,/Travel/Air Travel/Airport Parking & Transportation
+378,/Travel/Hotels & Accommodations/Vacation Rentals & Short-Term Stays
+379,/Travel/Tourist Destinations/Beaches & Islands
+380,/Travel/Tourist Destinations/Mountain & Ski Resorts
+381,/Travel/Tourist Destinations/Regional Parks & Gardens
+382,/Travel/Tourist Destinations/Theme Parks
+383,/Travel/Tourist Destinations/Zoos-Aquariums-Preserves
